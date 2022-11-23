@@ -5,12 +5,13 @@
 - Reviewing Codes
 
 ## 💼 I'm working as ...
-- A backend developer 
+- A back-end developer (PHP Laravel)
+- A front-end developer *(sometimes, basic)*
 
 ## 🌱 I’m currently learning ...
-- Django
-- Svelte
-- Neovim (Looking at 0.7 configuration)
+- DDD
+- Backend API powered by Express on NodeJs? Deno?
+- Neovim (Continuous)
 
 ## 📫 How to reach me ...
 [contact@tklai.net](mailto:contact@tklai.net)
