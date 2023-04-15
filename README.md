@@ -9,6 +9,7 @@
 - A front-end developer *(sometimes, basic)*
 
 ## 🌱 I’m currently learning ...
+- Next.js
 - DDD
 - Backend API powered by Express on NodeJs? Deno?
 - Neovim (Continuous)
